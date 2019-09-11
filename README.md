@@ -34,7 +34,7 @@ sample-mock-api/
 ```
 
 ## Run the project
-
+Run the below cmd to start the api
 ```
 npm start
 ```
