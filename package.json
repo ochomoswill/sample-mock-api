@@ -1,0 +1,16 @@
+{
+  "name": "sample-mock-api",
+  "version": "1.0.0",
+  "description": "a simple mock api",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "ochomoswill",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "faker": "^4.1.0",
+    "json-server": "^0.15.1"
+  }
+}
