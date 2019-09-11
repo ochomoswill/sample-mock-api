@@ -39,6 +39,8 @@ sample-mock-api/
 npm start
 ```
 
+![The Sample Mock API running](https://github.com/ochomoswill/sample-mock-api/blob/master/assets/sample-mock-api-running.png)
+
 
 ## Acknowledgement
 Great thanks to [korydondzila](https://github.com/korydondzila): 
